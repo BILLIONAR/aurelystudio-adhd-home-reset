@@ -41,7 +41,7 @@ function showWelcome(edit = false) {
   if (!dialog.open) dialog.showModal();
   // Keep first-use orientation visible on phones instead of opening the keyboard automatically.
   if (welcomeEditing && matchMedia('(min-width: 700px)').matches) dialog.querySelector('#welcome-name')?.focus({preventScroll:true});
-  else dialog.querySelector(welcomeEditing?'#welcome-title':'.welcome-enter')?.focus({preventScroll:true});
+  else dialog.querySelector('#welcome-title')?.focus({preventScroll:true});
   dialog.addEventListener('input',welcomeInput);
   dialog.addEventListener('change',welcomeChange);
   dialog.addEventListener('click',welcomeClick);

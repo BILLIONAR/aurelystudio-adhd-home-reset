@@ -34,3 +34,10 @@ body{font-size:var(--user-font-size,15px)}.photo img{width:100%;height:100%;disp
 
 /* Keep the welcome aligned with saved Theme Studio choices. The gold logo is untouched. */
 #welcome-screen{background:var(--bg);color:var(--ink);border-color:var(--line)}.welcome-copy{font-family:var(--ui)}.welcome-main h1,.welcome-photo-note p{font-family:var(--heading)}.welcome-main h1{color:var(--ink)}.welcome-main h1.returning-title>span{color:var(--link,var(--main))}.welcome-photo-tag{font-family:var(--hand)}.welcome-description,.welcome-name-preview,.welcome-privacy,.welcome-bottom{font-family:var(--ui)}.welcome-description,.welcome-brand small,.welcome-name-preview,.welcome-privacy,.welcome-bottom,#welcome-form label{color:var(--muted)}.welcome-time{color:var(--link,var(--main))}#welcome-name{background:var(--card);color:var(--ink);border-color:var(--line)}#welcome-name:focus{outline-color:var(--link,var(--main))}.welcome-enter.primary,.welcome-enter:not(:disabled):hover{background:var(--main);color:var(--onmain,#fff)}.welcome-enter:disabled{background:var(--line);color:var(--muted)}.welcome-change{color:var(--link,var(--main))}.welcome-bottom{border-color:var(--line)}.welcome-bottom input{accent-color:var(--main)}.coverage-headings .welcome-main h1,.coverage-full-look .welcome-main h1,.coverage-headings .greeting h1,.coverage-full-look .greeting h1,.coverage-headings .greeting-name,.coverage-full-look .greeting-name{font-family:var(--hand)}
+
+/* Warm architectural welcome action; keyboard focus remains visible. */
+#welcome-title:focus{outline:none}
+#welcome-screen .welcome-enter.primary{background:#78604c;color:#fffaf3;border:0;box-shadow:none}
+#welcome-screen .welcome-enter.primary:not(:disabled):hover{background:#654f3e;filter:none}
+#welcome-screen .welcome-enter.primary:disabled{background:var(--line);color:var(--muted)}
+#welcome-screen .welcome-enter.primary:focus:not(:focus-visible){outline:none}
