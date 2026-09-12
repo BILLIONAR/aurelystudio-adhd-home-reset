@@ -1,0 +1,25 @@
+{
+  "name": "AurelyStudio ADHD Home Reset",
+  "short_name": "Home Reset",
+  "description": "Small practical home resets and decluttering plans",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2ed",
+  "theme_color": "#4e5d36",
+  "icons": [
+    {
+      "src": "assets__icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets__icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./"
+}

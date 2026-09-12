@@ -1,0 +1,64 @@
+[
+  {
+    "file": "kitchen.jpg",
+    "source": "https://unsplash.com/photos/AQl-J19ocWE",
+    "author": "Jason Briscoe",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1502005097973-6a7082348e28?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 1032652
+  },
+  {
+    "file": "living-room.jpg",
+    "source": "https://unsplash.com/photos/oGJLFNnD_Ek",
+    "author": "Parth Savani",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1771577067936-680c2f795e5f?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 354878
+  },
+  {
+    "file": "bedroom.jpg",
+    "source": "https://unsplash.com/photos/E-z8iE6LSgg",
+    "author": "Caroline Badran",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1779903726446-6f796d533d47?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 1098254
+  },
+  {
+    "file": "bathroom.jpg",
+    "source": "https://unsplash.com/photos/iI2VvS1Prwk",
+    "author": "Franco Debartolo",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1774578341998-d1e9a74e82f6?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 236683
+  },
+  {
+    "file": "entryway.jpg",
+    "source": "https://unsplash.com/photos/3ZmwWyQ4FU0",
+    "author": "Irena Oze",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1781249144138-0c63b4d5876e?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 747497
+  },
+  {
+    "file": "office.jpg",
+    "source": "https://unsplash.com/photos/zIltX6n3m7w",
+    "author": "Sven Brandsma",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1596022326953-84f20bfebb77?auto=format&fit=max&w=2200&q=90&fm=jpg",
+    "bytes": 487348
+  },
+  {
+    "file": "plant.jpg",
+    "source": "https://unsplash.com/photos/GvxNOKF_9fM",
+    "author": "Robert Katzki",
+    "license": "https://unsplash.com/license",
+    "download": "https://images.unsplash.com/photo-1516009674556-7eafcc30b75b?fit=max&w=1800&q=90&fm=jpg"
+  },
+  {
+    "file": "towels.jpg",
+    "source": "https://www.pexels.com/photo/white-textile-lot-282892/",
+    "author": "Lum3n",
+    "license": "https://www.pexels.com/license/",
+    "download": "https://images.pexels.com/photos/282892/pexels-photo-282892.jpeg"
+  }
+]
