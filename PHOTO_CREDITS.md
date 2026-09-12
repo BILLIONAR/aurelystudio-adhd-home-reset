@@ -1,6 +1,14 @@
 # Photography credits
 
-Photographs are integrated in the Home Reset app. They are not a standalone photo pack.
+Images are integrated in the Home Reset app. They are not a standalone image pack.
+
+## Luxury architecture — September 12, 2026
+
+welcome-luxury.png and the six room *-luxury.png images were generated for AurelyStudio using ChatGPT in Google Chrome, GPT-5.6 Sol / High. These are AI-generated architectural illustrations. Original files are used without stretching or blurring.
+
+## Stock photographs
+
+plant.jpg and towels.jpg remain active. The other stock room files are retained as legacy assets; the app now displays the luxury architecture series.
 
 - kitchen.jpg — [Jason Briscoe](https://unsplash.com/photos/AQl-J19ocWE), [license](https://unsplash.com/license).
 - living-room.jpg — [Parth Savani](https://unsplash.com/photos/oGJLFNnD_Ek), [license](https://unsplash.com/license).
